@@ -104,7 +104,9 @@ streamlit run app.py
 
 ## 📸 Project UI
 
-The application includes a banner image (`img.png`) displayed at the top of the web interface for better user experience.
+The application includes a banner image displayed at the top of the web interface for better user experience.
+<img width="1914" height="907" alt="Screenshot 2026-01-25 181956" src="https://github.com/user-attachments/assets/7c5453f0-38d5-445a-8e7f-2c9c1603df37" />
+
 
 ---
 
