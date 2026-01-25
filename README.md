@@ -114,28 +114,3 @@ The application includes a banner image (`img.png`) displayed at the top of the 
 * Improve search speed using precomputed TF-IDF matrix
 * Add product images and pricing
 * Deploy the app on cloud platforms (Heroku / AWS)
-
----
-
-## 👩‍💻👨‍💻 Author
-
-**Developed by:** *[Your Name]*
-**Course:** B.Tech CSE (AI & ML)
-**Use Case:** Academic Project / Placement Portfolio
-
----
-
-## 📄 License
-
-This project is for **educational purposes only**.
-
----
-
-If you want, I can also:
-
-* Rewrite this for **resume/project report**
-* Add **architecture diagram explanation**
-* Make it **more placement-oriented**
-* Convert it into a **research-style README**
-
-Just tell me 👍
