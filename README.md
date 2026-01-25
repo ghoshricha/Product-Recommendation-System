@@ -2,20 +2,20 @@
 
 ## 📌 Overview
 
-This project is a **content-based Amazon Product Recommendation System** built using **Natural Language Processing (NLP)** and **Machine Learning** techniques.
-It allows users to search for a product and get **relevant product recommendations** based on similarity between product titles and descriptions.
+This project is a content-based Amazon Product Recommendation System built using Natural Language Processing (NLP) and Machine Learning techniques.
+It allows users to search for a product and get relevant product recommendations based on similarity between product titles and descriptions.
 
-The system is deployed as an **interactive web application using Streamlit**.
+The system is deployed as an interactive web application using Streamlit.
 
 ---
 
 ## 🚀 Features
 
-* Product search using **text similarity**
+* Product search using text similarity
 * NLP-based preprocessing (tokenization & stemming)
-* **TF-IDF Vectorization** for text representation
-* **Cosine Similarity** to rank relevant products
-* Simple and interactive **Streamlit UI**
+* TF-IDF Vectorization for text representation
+* Cosine Similarity to rank relevant products
+* Simple and interactive Streamlit UI
 * Displays top 10 most relevant products
 
 ---
