@@ -1,5 +1,3 @@
-# Product-Recommendation-System
-
 # Amazon Product Recommendation System 🔍🛒
 
 ## 📌 Overview
