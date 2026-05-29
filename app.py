@@ -7,6 +7,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 import streamlit as st
 from PIL import Image
 
+# Download required NLTK data
+nltk.download('punkt')
+nltk.download('punkt_tab')
+
 # Load the dataset
 data = pd.read_csv('amazon_product.csv')
 
